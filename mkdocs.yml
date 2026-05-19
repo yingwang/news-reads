@@ -84,6 +84,7 @@ plugins:
 
 nav:
   - 最新: index.md
+  - 2026-05-19 早间 brief: news/2026-05-19.md
 
 copyright: |
   Copyright &copy; 2026 Ying Wang —
