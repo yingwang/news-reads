@@ -84,6 +84,7 @@ plugins:
 
 nav:
   - 最新: index.md
+  - 2026-07-01 早间 brief: news/2026-07-01.md
   - 2026-06-30 早间 brief: news/2026-06-30.md
   - 2026-06-29 早间 brief: news/2026-06-29.md
   - 2026-06-27 早间 brief: news/2026-06-27.md
